@@ -1,0 +1,390 @@
+2018-06-29 17:43:13,822-INFO-Script starts running ...
+2018-06-29 17:43:13,822-INFO-Trying to connect to IVUE ...
+2018-06-29 17:43:15,377-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:43:15,378-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:43:19,197-ERROR-Cannot detect Rincon
+2018-06-29 17:43:19,198-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:43:19,198-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:43:29,208-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:43:32,114-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:43:32,114-INFO-Status: Already connected to BV1
+2018-06-29 17:43:32,114-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:43:37,121-INFO-Trying to connect camera server ...
+2018-06-29 17:43:37,190-INFO-Parsing the videoe list ...
+2018-06-29 17:44:55,015-INFO-Script starts running ...
+2018-06-29 17:44:55,015-INFO-Trying to connect to IVUE ...
+2018-06-29 17:44:55,804-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:44:55,805-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:45:01,127-ERROR-Cannot detect Rincon
+2018-06-29 17:45:01,127-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:45:01,127-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:45:11,127-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:45:11,931-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:45:11,931-INFO-Status: Already connected to BV1
+2018-06-29 17:45:11,931-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:45:16,938-INFO-Trying to connect camera server ...
+2018-06-29 17:45:16,986-INFO-Parsing the videoe list ...
+2018-06-29 17:45:16,991-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234208_NF.mp4 1/10
+2018-06-29 17:45:17,010-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234308_NF.mp4 2/10
+2018-06-29 17:45:17,018-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234408_NF.mp4 3/10
+2018-06-29 17:45:17,025-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234508_NF.mp4 4/10
+2018-06-29 17:45:27,473-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234609_NF.mp4 5/10
+2018-06-29 17:45:39,255-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234709_NF.mp4 6/10
+2018-06-29 17:45:52,590-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234809_NF.mp4 7/10
+2018-06-29 17:46:04,686-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_234909_NF.mp4 8/10
+2018-06-29 17:46:17,193-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235009_NF.mp4 9/10
+2018-06-29 17:46:29,340-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235110_NF.mp4 10/10
+2018-06-29 17:46:41,624-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 17:46:41,624-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 17:48:17,370-INFO-Script starts running ...
+2018-06-29 17:48:17,371-INFO-Trying to connect to IVUE ...
+2018-06-29 17:48:20,165-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:48:20,167-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:48:24,449-ERROR-Cannot detect Rincon
+2018-06-29 17:48:24,449-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:48:24,449-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:48:34,451-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:48:35,334-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:48:35,334-INFO-Status: Already connected to BV1
+2018-06-29 17:48:35,334-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:48:40,341-INFO-Trying to connect camera server ...
+2018-06-29 17:48:40,394-INFO-Parsing the videoe list ...
+2018-06-29 17:48:40,399-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235210_NF.mp4 1/10
+2018-06-29 17:48:53,100-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235310_NF.mp4 2/10
+2018-06-29 17:49:05,755-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235410_NF.mp4 3/10
+2018-06-29 17:49:17,283-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235511_NF.mp4 4/10
+2018-06-29 17:49:28,738-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235611_NF.mp4 5/10
+2018-06-29 17:49:39,831-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235711_NF.mp4 6/10
+2018-06-29 17:49:51,973-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235811_NF.mp4 7/10
+2018-06-29 17:50:03,376-INFO-Downloading /home/he/wifi_download_videos/bv1/20180628/20180628_235911_NF.mp4 8/10
+2018-06-29 17:50:14,298-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000011_NF.mp4 9/10
+2018-06-29 17:50:14,298-INFO-Folder /home/he/wifi_download_videos/bv1/20180629 does not exist, creating this folder
+2018-06-29 17:50:25,294-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000111_NF.mp4 10/10
+2018-06-29 17:50:36,363-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 17:50:36,364-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 17:50:46,374-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 17:50:47,552-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:50:47,553-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:50:52,813-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 17:50:52,813-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:51:02,824-INFO-Trying to connect to Blackvue 3 ...
+2018-06-29 17:51:03,969-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:51:03,970-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:51:09,271-ERROR-Failed to connect to Blackvue 3 , will retry later
+2018-06-29 17:51:09,271-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:51:19,281-INFO-Trying to connect to IVUE ...
+2018-06-29 17:51:22,175-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:51:22,176-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:51:26,415-ERROR-Cannot detect Rincon
+2018-06-29 17:51:26,416-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:51:26,416-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:51:36,426-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:51:39,280-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:51:39,280-INFO-Status: Already connected to BV1
+2018-06-29 17:51:39,280-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:51:44,286-INFO-Trying to connect camera server ...
+2018-06-29 17:51:44,330-INFO-Parsing the videoe list ...
+2018-06-29 17:51:44,335-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000211_NF.mp4 1/10
+2018-06-29 17:51:58,993-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000312_NF.mp4 2/10
+2018-06-29 17:52:11,846-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000412_NF.mp4 3/10
+2018-06-29 17:52:23,950-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000512_NF.mp4 4/10
+2018-06-29 17:52:35,750-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000613_NF.mp4 5/10
+2018-06-29 17:52:47,830-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000713_NF.mp4 6/10
+2018-06-29 17:52:59,761-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000813_NF.mp4 7/10
+2018-06-29 17:53:12,310-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_000913_NF.mp4 8/10
+2018-06-29 17:53:24,445-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001013_NF.mp4 9/10
+2018-06-29 17:53:36,248-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001113_NF.mp4 10/10
+2018-06-29 17:53:47,872-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 17:53:47,872-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 17:53:57,883-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 17:53:59,671-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:53:59,673-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:54:06,445-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 17:54:06,445-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:54:16,451-INFO-Trying to connect to Blackvue 3 ...
+2018-06-29 17:54:19,491-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:54:19,493-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:54:26,173-ERROR-Failed to connect to Blackvue 3 , will retry later
+2018-06-29 17:54:26,173-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:54:36,183-INFO-Trying to connect to IVUE ...
+2018-06-29 17:54:37,983-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:54:37,984-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:54:41,810-ERROR-Cannot detect Rincon
+2018-06-29 17:54:41,810-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:54:41,810-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:54:51,821-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:54:54,707-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:54:54,707-INFO-Status: Already connected to BV1
+2018-06-29 17:54:54,707-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:54:59,714-INFO-Trying to connect camera server ...
+2018-06-29 17:54:59,758-INFO-Parsing the videoe list ...
+2018-06-29 17:54:59,763-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001213_NF.mp4 1/10
+2018-06-29 17:55:11,633-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001313_NF.mp4 2/10
+2018-06-29 17:55:24,024-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001414_NF.mp4 3/10
+2018-06-29 17:55:35,966-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001514_NF.mp4 4/10
+2018-06-29 17:55:48,780-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001614_NF.mp4 5/10
+2018-06-29 17:56:01,989-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001714_NF.mp4 6/10
+2018-06-29 17:56:13,270-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001814_NF.mp4 7/10
+2018-06-29 17:56:26,345-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_001915_NF.mp4 8/10
+2018-06-29 17:56:38,341-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002015_NF.mp4 9/10
+2018-06-29 17:56:50,293-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002115_NF.mp4 10/10
+2018-06-29 17:57:02,331-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 17:57:02,332-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 17:57:12,342-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 17:57:14,539-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:57:14,541-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:57:19,111-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 17:57:19,111-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:57:29,119-INFO-Trying to connect to Blackvue 3 ...
+2018-06-29 17:57:30,633-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:57:30,634-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:57:37,378-ERROR-Failed to connect to Blackvue 3 , will retry later
+2018-06-29 17:57:37,378-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:57:47,388-INFO-Trying to connect to IVUE ...
+2018-06-29 17:57:49,465-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:57:49,467-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 17:57:54,697-ERROR-Cannot detect Rincon
+2018-06-29 17:57:54,697-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 17:57:54,698-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 17:58:04,703-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 17:58:07,714-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 17:58:07,714-INFO-Status: Already connected to BV1
+2018-06-29 17:58:07,714-INFO-Connected to Blackvue 1 successfully
+2018-06-29 17:58:12,720-INFO-Trying to connect camera server ...
+2018-06-29 17:58:12,795-INFO-Parsing the videoe list ...
+2018-06-29 17:58:12,800-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002215_NF.mp4 1/10
+2018-06-29 17:58:24,468-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002315_NF.mp4 2/10
+2018-06-29 17:58:36,264-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002415_NF.mp4 3/10
+2018-06-29 17:58:48,956-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002515_NF.mp4 4/10
+2018-06-29 17:59:00,864-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002615_NF.mp4 5/10
+2018-06-29 17:59:12,275-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002715_NF.mp4 6/10
+2018-06-29 17:59:24,116-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002816_NF.mp4 7/10
+2018-06-29 17:59:36,437-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_002916_NF.mp4 8/10
+2018-06-29 17:59:48,520-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003016_NF.mp4 9/10
+2018-06-29 18:00:02,803-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003116_NF.mp4 10/10
+2018-06-29 18:00:13,976-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 18:00:13,977-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 18:00:23,987-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 18:00:26,900-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:00:26,902-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:00:31,230-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 18:00:31,230-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:00:41,240-INFO-Trying to connect to Blackvue 3 ...
+2018-06-29 18:00:42,044-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:00:42,045-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:00:48,293-ERROR-Failed to connect to Blackvue 3 , will retry later
+2018-06-29 18:00:48,293-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:00:58,303-INFO-Trying to connect to IVUE ...
+2018-06-29 18:01:01,020-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:01:01,021-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:01:04,793-ERROR-Cannot detect Rincon
+2018-06-29 18:01:04,793-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 18:01:04,793-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:01:14,803-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 18:01:16,095-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:01:16,095-INFO-Status: Already connected to BV1
+2018-06-29 18:01:16,095-INFO-Connected to Blackvue 1 successfully
+2018-06-29 18:01:21,101-INFO-Trying to connect camera server ...
+2018-06-29 18:01:21,154-INFO-Parsing the videoe list ...
+2018-06-29 18:01:21,159-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003216_NF.mp4 1/10
+2018-06-29 18:01:33,304-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003316_NF.mp4 2/10
+2018-06-29 18:01:45,333-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003416_NF.mp4 3/10
+2018-06-29 18:02:01,170-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003516_NF.mp4 4/10
+2018-06-29 18:02:12,685-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003616_NF.mp4 5/10
+2018-06-29 18:02:24,520-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003716_NF.mp4 6/10
+2018-06-29 18:02:36,342-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003816_NF.mp4 7/10
+2018-06-29 18:02:48,327-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_003917_NF.mp4 8/10
+2018-06-29 18:03:00,369-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004017_NF.mp4 9/10
+2018-06-29 18:03:12,636-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004117_NF.mp4 10/10
+2018-06-29 18:03:25,181-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 18:03:25,182-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 18:03:35,192-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 18:03:36,240-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:03:36,242-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:03:40,728-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 18:03:40,728-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:03:50,736-INFO-Trying to connect to Blackvue 3 ...
+2018-06-29 18:03:51,791-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:03:51,793-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:03:58,734-ERROR-Failed to connect to Blackvue 3 , will retry later
+2018-06-29 18:03:58,734-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:04:08,744-INFO-Trying to connect to IVUE ...
+2018-06-29 18:04:11,763-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:04:11,764-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:04:15,892-ERROR-Cannot detect Rincon
+2018-06-29 18:04:15,892-ERROR-Failed to connect to Rincon, will try later
+2018-06-29 18:04:15,892-INFO-Rest for 10 seconds
+
+
+
+
+
+2018-06-29 18:04:25,902-INFO-Trying to connect to Blackvue 1 ...
+2018-06-29 18:04:29,014-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:04:29,014-INFO-Status: Already connected to BV1
+2018-06-29 18:04:29,014-INFO-Connected to Blackvue 1 successfully
+2018-06-29 18:04:34,020-INFO-Trying to connect camera server ...
+2018-06-29 18:04:34,069-INFO-Parsing the videoe list ...
+2018-06-29 18:04:34,074-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004217_NF.mp4 1/10
+2018-06-29 18:04:45,980-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004317_NF.mp4 2/10
+2018-06-29 18:04:58,171-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004418_NF.mp4 3/10
+2018-06-29 18:05:10,568-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004518_NF.mp4 4/10
+2018-06-29 18:05:22,785-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004618_NF.mp4 5/10
+2018-06-29 18:05:34,567-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004718_NF.mp4 6/10
+2018-06-29 18:05:46,509-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004818_NF.mp4 7/10
+2018-06-29 18:05:59,504-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_004918_NF.mp4 8/10
+2018-06-29 18:06:11,698-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_005018_NF.mp4 9/10
+2018-06-29 18:06:23,804-INFO-Downloading /home/he/wifi_download_videos/bv1/20180629/20180629_005118_NF.mp4 10/10
+2018-06-29 18:06:35,832-INFO-10 videos are successfull downloaded from blackvue 1
+2018-06-29 18:06:35,833-INFO-Rest for 10 seconds
+
+
+
+
+
+
+
+
+2018-06-29 18:06:45,843-INFO-Trying to connect to Blackvue 2 ...
+2018-06-29 18:06:48,052-INFO-Currently conneted to WIFI: BV1 112
+2018-06-29 18:06:48,053-INFO-Disconnected to WIFI: BV1 112
+2018-06-29 18:06:54,342-ERROR-Failed to connect to Blackvue 2 , will retry later
+2018-06-29 18:06:54,342-INFO-Rest for 10 seconds
+
+
+
+
+
